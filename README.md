@@ -8,6 +8,9 @@ have them run with [Bench](https://github.com/grafana/grafana-bench) in CI.
 
 ## How does it work?
 
+![image](https://github.com/jalevin/grafana-platform-tests/assets/1669620/ddda7cd7-bf50-4a4b-99a3-f860a29bc1f5)
+
+
 Each team adds a `bench/` directory to their repository and installs the `bench`
 github action workflow. The action will:
 
